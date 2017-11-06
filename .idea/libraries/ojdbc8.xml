@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ojdbc8">
+    <CLASSES>
+      <root url="jar://D:/sqldeveloper/jdbc/lib/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://D:/sqldeveloper/jdbc/lib/ojdbc8.jar!/" />
+    </excluded>
+  </library>
+</component>
